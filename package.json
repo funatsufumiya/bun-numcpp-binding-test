@@ -1,0 +1,14 @@
+{
+  "name": "bun-numcpp-test",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "bun-ffi-gen": "^1.1.4"
+  }
+}
