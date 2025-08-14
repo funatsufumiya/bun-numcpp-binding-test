@@ -13,4 +13,4 @@ $ bun run index.ts
 
 - NumCpp: [MIT License](https://github.com/dpilger26/NumCpp/blob/Version_2.12.1/LICENSE)
 
-This repository's copyright is public domain ([WTFPL](https://github.com/rpherrera/WTFPL)).
+This repository's copyright is public domain ([WTFPL](https://github.com/rpherrera/WTFPL) or 0BSD).
